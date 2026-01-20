@@ -8,6 +8,7 @@ A compact risk analytics system focused on **equities + fixed income**, built as
 ✅ Flags anomalies (return outliers, volatility spikes)  
 ✅ Runs stress tests (2008-style crash, rate hikes via **Duration + DV01**)  
 ✅ Interactive **Streamlit** dashboard
+✅ Please navigate to the **results** folder to take a look at an **example risk report** and **screenshots of the dashboard**
 
 ✅ **Multi-portfolio** support
 ✅ **Risk attribution** (Component VaR, ES contributions, vol contributions)
